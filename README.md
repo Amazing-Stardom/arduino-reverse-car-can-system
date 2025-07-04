@@ -92,16 +92,19 @@ arduino-reverse-car-can-system/
 ├── img/
 │   ├── figure-1.png  → Block Diagram
 │   ├── figure-2.jpeg to figure-6.png → Results and Setup
-├── IJSRP-paper-submission-format-double-column.docx
+├── reverse-guide-system-for-automobiles-using-can-protocol.docx
 └── README.md
 ```
 
 ---
 
-## Paper
 
-Read full implementation and evaluation in:
-📄 `reverse-guide-system-for-automobiles-using-can-protocol.docx`
+## 📄 Paper
+
+The complete research documentation is available in:
+
+- [`reverse-guide-system-for-automobiles-using-can-protocol.docx`](./reverse-guide-system-for-automobiles-using-can-protocol.docx)
+
 
 ---
 
